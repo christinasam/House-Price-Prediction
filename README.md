@@ -1,4 +1,4 @@
-# Predicting House Price with Regression and Random Forest
+# House Price Prediction with Regression and Random Forest
 
 The aim of this project is to predict house prices using one basic machine learning algorithm, Linear Regression, and one advanced algorithm, Random Forest. We will also use regression with regularization such as Ridge and Lasso to try to improve our prediction accuracy.  
 
